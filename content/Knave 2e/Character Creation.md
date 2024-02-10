@@ -1,3 +1,5 @@
+# Character Sheet
+Print out the [[Character Sheet.pdf|Character Sheet]] or make your own with pen & paper.
 # Ability Scores
 1. Distribute 2 points among ability scores, you can spend both points in one ability
 2. Roll 1d6 to assign a 3rd point randomly

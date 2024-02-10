@@ -12,3 +12,7 @@ Knave 2e will be the **basis** of our rules system. It's an OSR compatible, clas
 - [[Character Creation]]
 	- [[Careers]]
 	- [[Character Sheet.pdf]]
+---
+>[!quote]
+> How does Petril react?
+
