@@ -1,5 +1,5 @@
 # One window to rule them all
-During the session. players should only use Zoom, preferably on full screen mode. This means:
+During the session players should only use Zoom, preferably on full screen mode. This means:
 
 - Physical character sheets
 - Physical dice

@@ -14,7 +14,13 @@ You get all the items that you want and that can carry from these list:
 - 2 rations
 - 50’ of rope
 - 2 torches
-- any armor pieces 
-- any weapons
+- up to 7 armor pieces 
+- any melee weapons
+	- one handed » d6 dmg, 1 slot
+	- two handed » d8 dmg, 2 slots
+- any ranged weapons
+	- one handed » d4 dmg, 18m range, 1 slot
+	- two handed » d6 dmg, 36m range, 2 slots
 - quiver with 20 arrows
-- one random [[Spell Book]] per INT point
+- bag with 30 sling stones
+- one random [[Spell Books|Spell Book]] per INT point
