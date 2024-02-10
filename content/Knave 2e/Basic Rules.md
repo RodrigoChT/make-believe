@@ -62,4 +62,4 @@ Range from 0 to 10.
 	- if target lv ≤ spell lv » direct effect
 	- else save check
 		- success by +10 » no effect
-		- success » effect halved 
+		- success » effect halved

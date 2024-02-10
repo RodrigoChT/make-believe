@@ -1,8 +1,10 @@
 ---
-title: Homepage
+title: Welcome to Quartz
 ---
 [[House Rules]]
-[[Knave 2e Basic Rules]]
-# Old School Renaissance
-## Resources
+# System
+- [[Basic Rules]]
+- [[Character Creation]]
+- [[Character Sheet.pdf]]
+# OSR
 - [[Principia Apocrypha.pdf]]
