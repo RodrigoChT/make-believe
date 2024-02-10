@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-Welcome to **Petril's Hearth**, your one-stop shop for our roleplaying games. 
+Welcome to **📜 Petril's Scrolls**, your one-stop shop for our roleplaying games. 
 
 Feel free to look around, the only hard requirement is to read the [[The House Rules]].
 # Old School Renaissance
