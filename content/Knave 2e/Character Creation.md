@@ -3,6 +3,8 @@ Print out the [[Character Sheet.pdf|Character Sheet]] or make your own with pen 
 # Ability Scores
 1. Distribute 2 points among ability scores, you can spend both points in one ability
 2. Roll 1d6 to assign a 3rd point randomly
+>[!info] Note
+>The ability scores **are** the modifiers, they go from 0 to 10.
 # Secondary Stats
 1. Set XP to 0
 2. Set item slots to 10 + CON
@@ -16,7 +18,7 @@ You get all the items that you want and that can carry from these list:
 - 2 rations
 - 50’ of rope
 - 2 torches
-- up to 7 armor pieces 
+- up to 7 armor pieces (+1 AC per armor piece)
 - any melee weapons
 	- one handed » d6 dmg, 1 slot
 	- two handed » d8 dmg, 2 slots
