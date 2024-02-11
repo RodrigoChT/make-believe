@@ -1,5 +1,7 @@
 ---
 title: Home
+socialTitle: 📜 Petril's Scrolls
+socialDescription: Your one-stop shop for our roleplaying games.
 ---
 Welcome to **📜 Petril's Scrolls**, your one-stop shop for our roleplaying games. 
 
