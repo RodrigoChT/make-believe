@@ -1,5 +1,5 @@
 # One window to rule them all
-During the session players should only use Zoom, preferably on full screen mode. This means:
+During the session please try to only have Zoom open, preferably on full screen mode. This means:
 
 - Physical character sheets
 - Physical dice
@@ -15,5 +15,5 @@ At the end of every session we will hold the Council to discuss the following:
 - What we liked and disliked
 - Air grievances on rulings
 - Decide the general direction the party is taking for next session
-# The World is changing
+# The world is changing
 Rules, precedent, and systems are not the boss of us. If we want to try new mechanics, change existing ones, or flip the whole system on its head we should do it. Bring you ideas to the Council.

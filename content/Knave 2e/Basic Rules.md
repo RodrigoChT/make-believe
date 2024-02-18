@@ -10,7 +10,20 @@ Range from 0 to 10.
 - CHA: social, **initiative**, and divine intervention checks
 	- max NPC companions = CHA
 # Checks
-
+- d20 + ability score
+- Modifier of ±5 for each effect
+    - career
+    - clever approach
+    - tools
+    - time
+- Target = 11 + Difficulty Rating \[0-10] (default 5)
+- Social checks:
+    - common sense
+    - CHA vs WIS/CHA
+- No lore checks
+- No search checks
+    - find ofter enough time
+    - clue triggers in-game action required
 # Inventory System & Health
 ## Slots
 - PCs have 10 + CON item slots
@@ -30,13 +43,22 @@ Range from 0 to 10.
 - 0 HPs = death
 # Leveling Up
 - 1 coin recovered from danger to safety = 1 XP (split among party)
-- [[Leveling XP requirements]]
+- See [[Leveling XP]] for XP thresholds
 - Benefits:
 	- +1 to 2 **different** ability scores of the player's choice
 	- +1 to a **different** random ability score 
 	- HP = max(prev HP + 1, Lv.d6)
+# Travelling
+- Time is tracked in 4h watches (3 for day, 3 for night, other things happen while PCs are doing stuff
+- Travel speed
+	- 1 10km hex per watch
+	- 3 hexes/day, CON check to 1 direct dmg for each extra hex
+	- halved in darkness, difficult terrain, or severe weather
+	- doubled when riding
+- If disorienting » WIS check to avoid moving to random hex
+- Explore action: reveals areas of interest, clues to deepest secrets
+- Foraging: WISH check for 1d6 rations
 # Delving
-## Dungeon turns
 - Time is tracked in 10min turns, other things happen while PCs are doing stuff
 ## Speed
 - Crawling at 36m/t: detect traps, map
@@ -60,7 +82,7 @@ Range from 0 to 10.
 	- if unsuspecting » direct dmg
 	- if defenseless » kill
 - Power attack: double dmg and break weapon
-- Flat modifiers for advantage & disadvantage
+- Flat modifiers for advantages & disadvantages (positioning, surprise, elevation, etc)
 - Morale checks
 	- breaking points: loners loose HP/2, first death, # mons/2, leader dies, fear
 	- if 2d6 > morale rating » rout | surrender
@@ -126,9 +148,9 @@ Range from 0 to 10.
     - rare (lawyer, sculptor)
         - attempt tasks: 1 year, 30k c
         - +5: 1 year, 30k c
+# Recruiting
+Players can recruit different types of NPCs. See [[Recruitable NPCs]].
 # Pending Topics
-- Travelling
 - Equipment
 - Buildings
 - Warfare
-- Recruiting

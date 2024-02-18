@@ -19,6 +19,13 @@ You get all the items that you want and that can carry from these list:
 - 50’ of rope
 - 2 torches
 - up to 7 armor pieces (+1 AC per armor piece)
+	- shield
+	- helmet
+	- gambeson
+	- mail shirt
+	- breastplate
+	- arm plate
+	- leg plate
 - any melee weapons
 	- one handed » d6 dmg, 1 slot
 	- two handed » d8 dmg, 2 slots
