@@ -9,6 +9,8 @@ Range from 0 to 10.
 - WIS: added to **ranged attacks** and wilderness checks (foraging, navigating)
 - CHA: social, **initiative**, and divine intervention checks
 	- max NPC companions = CHA
+# Checks
+
 # Inventory System & Health
 ## Slots
 - PCs have 10 + CON item slots
@@ -125,6 +127,7 @@ Range from 0 to 10.
         - attempt tasks: 1 year, 30k c
         - +5: 1 year, 30k c
 # Pending Topics
+- Travelling
 - Equipment
 - Buildings
 - Warfare
