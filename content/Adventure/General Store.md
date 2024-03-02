@@ -1,4 +1,4 @@
-| Item                         | Cost (gp) |
+| Item                         | Cost (c) |
 |------------------------------|-----------|
 | Backpack                     | 5         |
 | Bell                         | 10        |
@@ -7,7 +7,7 @@
 | Dice                         | 5         |
 | Grappling hook               | 25        |
 | Hammer (small)               | 5         |
-| Iron spikes (12)             | 5         |
+| Iron spikes (12)             | 10         |
 | Lantern                      | 20        |
 | Lockpicks                    | 20        |
 | Mirror (hand-sized, steel) | 5         |
