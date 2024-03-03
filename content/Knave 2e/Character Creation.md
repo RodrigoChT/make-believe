@@ -16,7 +16,7 @@ Print out the [[Character Sheet.pdf|Character Sheet]] or make your own with pen 
 You get all the items that you want and that can carry from these list:
 - 3d6×10 coins
 - 2 rations
-- 50’ of rope
+- 15m of rope
 - 2 torches
 - up to 7 armor pieces (+1 AC per armor piece)
 	- shield
